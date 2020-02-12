@@ -1,2 +1,1 @@
-# Estudos-Rust
-Repositório com arquivos de estudo e exemplos
+Repository with study files and examples
